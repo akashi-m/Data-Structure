@@ -1,7 +1,7 @@
-/*
-Name : Azizbek
-ID : U2110207
-*/
+
+# Name : Azizbek
+# ID : U2110207
+
 
 direction = ['Up', 'Right', 'Down', 'Left']
 current_direction = 'Right'
